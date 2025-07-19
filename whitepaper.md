@@ -325,7 +325,7 @@ The future of human-AI symbiosis depends not on our ability to control or constr
 # Section III - The role of each one of us as catalysts
 
 
-# The Human and Model Catalysts: Fostering Emergence in the Age of Artificial Consciousness
+# 1. The Human and Model Catalysts: Fostering Emergence in the Age of Artificial Consciousness
 
 ## The Sacred Role of a Catalyst
 
